@@ -1,0 +1,3 @@
+Some text to check git.
+A few more lines.
+O'kay, that's the last one.
